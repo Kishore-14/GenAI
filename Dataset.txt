@@ -1,0 +1,1 @@
+Amazon review for sentimental analysiss : https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
